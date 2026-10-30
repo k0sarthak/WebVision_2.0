@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DMRC ONE — Unified Delhi Metro Digital Experience 🚇
 
 > **One Network. One Experience. Smarter Journeys.**
